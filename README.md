@@ -28,5 +28,5 @@
 
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MUHAMMADZAHIDQURESHI" alt="GitHub Streak" /></a></p>
 <h1 align="center">My CV Design</h1>
-<img src="" />
+<img src="https://github.com/MUHAMMADZAHIDQURESHI/MUHAMMADZAHIDQURESHI/blob/main/cv.jpg?raw=true" />
 
